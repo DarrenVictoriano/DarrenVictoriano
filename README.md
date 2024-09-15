@@ -12,6 +12,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi
-
-![](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
